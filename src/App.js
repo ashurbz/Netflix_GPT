@@ -2,7 +2,7 @@
 
 function App() {
   return(
-    <h1>hiiiiii</h1>
+    <div className="bg-red-900 h-48 w-48">hiiiiii</div>
   )
 }
 
